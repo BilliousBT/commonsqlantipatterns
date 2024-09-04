@@ -1,6 +1,9 @@
 /*******************************************
 INTRODUCTION.
 
+/*Who Am I*/
+
+/"What is this about*/
 This is to show common Anti-Patterns and to know what to look out for.... 
 I'd prefer to take questions at the end of each "chapter".
 
