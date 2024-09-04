@@ -25,6 +25,8 @@ go
 I am using Andy Yun's Autodealership database for this demo. 
     https://github.com/SQLBek
 
+You can find my code here: https://github.com/BilliousBT although I suck at github so your milage may vary.
+
 Other sources of inspiration:
     https://www.brentozar.com/
     https://littlekendra.com/
