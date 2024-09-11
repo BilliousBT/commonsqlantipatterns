@@ -69,6 +69,8 @@ Right click on the SELECT in the plan to see if it was blocked,  DOP = 0
 "Only use a Table Variable if the # key on your keyboard is broken.  
 No on second thoughts even then go buy a new keyboard and then run your query"
  -Erik Darling
+
+Also Table Valued Parameters (best to just dump those into a #table off the bat)
  
 */
 
